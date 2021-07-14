@@ -1,0 +1,2 @@
+# ServiceDemo
+Android 8.0以后不允许直接启动后台service,如果用startForegroundService启动服务，并且添加了消息通知后，应用后台挂起则不会被系统杀掉
